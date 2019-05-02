@@ -6,7 +6,7 @@ A zillion of similar solutions exist, being the circuit trivially simple; what i
 
 Users can populate the board with any of the chips, activate the one which offers the best video quality according their personal taste, and change it at any time with great ease.
 
-
+![Image of BOX-01](https://github.com/EmberHeavyIndustries/AMI-RGB2VGA/blob/master/Docs/4.jpg)
 
 
 
