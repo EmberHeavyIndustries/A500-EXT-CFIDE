@@ -1,5 +1,6 @@
 
 **A500-EXT-CFIDE** is an external IDE + Fast Memory Expansion for Amiga 500. 
+It is basically a modified clone of Matthias Heinrich's CDTV-RAM-IDE board.
 
 
 
