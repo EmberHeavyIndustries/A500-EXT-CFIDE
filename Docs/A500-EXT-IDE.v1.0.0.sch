@@ -12940,6 +12940,27 @@ Source: http://www.st.com/stonline/products/literature/ds/7194/ld1117axx.pdf</de
 <label x="81.28" y="134.62" size="1.778" layer="95"/>
 </segment>
 </net>
+<net name="CDAC" class="0">
+<segment>
+<pinref part="CN1" gate="G$1" pin="CDAC"/>
+<wire x1="43.18" y1="129.54" x2="25.4" y2="129.54" width="0.1524" layer="91"/>
+<label x="25.4" y="129.54" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="!C3" class="0">
+<segment>
+<pinref part="CN1" gate="G$1" pin="!CCKQ!"/>
+<wire x1="74.93" y1="132.08" x2="86.36" y2="132.08" width="0.1524" layer="91"/>
+<label x="83.82" y="132.08" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="!C1" class="0">
+<segment>
+<pinref part="CN1" gate="G$1" pin="!CCK!"/>
+<wire x1="74.93" y1="129.54" x2="86.36" y2="129.54" width="0.1524" layer="91"/>
+<label x="83.82" y="129.54" size="1.778" layer="95"/>
+</segment>
+</net>
 </nets>
 </sheet>
 <sheet>
@@ -14798,6 +14819,27 @@ Source: http://www.st.com/stonline/products/literature/ds/7194/ld1117axx.pdf</de
 <pinref part="IC2" gate="G$1" pin="P$81-FB15MC08"/>
 <wire x1="144.78" y1="63.5" x2="147.32" y2="63.5" width="0.1524" layer="91"/>
 <label x="147.32" y="63.5" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="CDAC" class="0">
+<segment>
+<pinref part="IC2" gate="G$1" pin="P$92-FB16MC03"/>
+<wire x1="144.78" y1="91.44" x2="149.86" y2="91.44" width="0.1524" layer="91"/>
+<label x="149.86" y="91.44" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="!C1" class="0">
+<segment>
+<pinref part="IC2" gate="G$1" pin="P$93-FB16MC05"/>
+<wire x1="144.78" y1="93.98" x2="149.86" y2="93.98" width="0.1524" layer="91"/>
+<label x="149.86" y="93.98" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="!C3" class="0">
+<segment>
+<pinref part="IC2" gate="G$1" pin="P$94-FB16MC06"/>
+<wire x1="144.78" y1="96.52" x2="149.86" y2="96.52" width="0.1524" layer="91"/>
+<label x="149.86" y="96.52" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
